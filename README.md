@@ -1,5 +1,5 @@
 
-# Hearthstone for [uLaunch](https://github.com/XorTroll/uLaunch)
+# Hearthstone Theme for [uLaunch](https://github.com/XorTroll/uLaunch)
 ![Hearthstone](https://raw.githubusercontent.com/Luzifix/ulaunch-hearthstone/master/logo.png)
 
 [Download Now](https://github.com/Luzifix/ulaunch-hearthstone/releases)
