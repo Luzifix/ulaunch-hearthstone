@@ -2,7 +2,9 @@
 # Hearthstone Theme for [uLaunch](https://github.com/XorTroll/uLaunch)
 ![Hearthstone](https://raw.githubusercontent.com/Luzifix/ulaunch-hearthstone/master/logo.png)
 
-[Download Now](https://github.com/Luzifix/ulaunch-hearthstone/releases)
+[Download Now](https://github.com/Luzifix/ulaunch-hearthstone/releases) 
+
+![Count](https://img.shields.io/github/downloads/Luzifix/ulaunch-hearthstone/total.svg)
 
 ## Screenshots
 
